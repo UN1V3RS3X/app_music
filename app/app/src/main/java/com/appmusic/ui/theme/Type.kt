@@ -1,4 +1,4 @@
-package com.appmusic.presentation.ui.theme
+package com.appmusic.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
